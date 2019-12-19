@@ -1,3 +1,3 @@
 def prime?(number)
- (1)
+ (1..100)
 end

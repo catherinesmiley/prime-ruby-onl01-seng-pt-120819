@@ -3,5 +3,5 @@ def prime?(number)
     return false 
   elsif n <= 3
     return true 
-  else (2..)
+  else (2..n/2)
 end
